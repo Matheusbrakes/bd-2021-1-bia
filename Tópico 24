@@ -1,0 +1,7 @@
+echo "# bd-2021-1-bia" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Matheusbrakes/bd-2021-1-bia.git
+git push -u origin main

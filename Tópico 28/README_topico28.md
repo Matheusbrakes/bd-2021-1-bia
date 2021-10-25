@@ -1,2 +1,3 @@
 # Tópico 28
-![Diagrama2](https://user-images.githubusercontent.com/76070394/138625300-3fc137b5-0d9c-4a82-8a84-61064dbbc176.jpeg)
+
+![Diagrama4](https://user-images.githubusercontent.com/76070394/138626297-779e92bf-e128-4147-9d3d-9166d523c8e3.jpeg)
